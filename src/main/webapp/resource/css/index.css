@@ -1,0 +1,114 @@
+
+.navbar-brand {
+  background-image: url(../img/logo.jpg);
+  width: 50px;
+  background-size: 75%;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.navbar {
+	margin-bottom:0px;
+}
+
+.seckill {
+  margin: 30px 0;
+  width: 100%;
+}
+
+.list {
+  background-color: #F5F5F5;
+  padding: 20px 20px;
+}
+
+.row {
+  margin-top: 30px;
+}
+
+.list-item img:hover {
+  opacity: 0.7;
+}
+
+.left-mark {
+  display: inline-block;
+  height: 50px;
+  vertical-align: top;
+  width: 8px;
+  background-color: #bd071d;
+}
+
+.list-title ,
+.seckill-list-title {
+  font-size: 35px;
+  font-weight: bold;
+  margin-left: 12px;
+}
+
+.list-item {
+  background: #fff;
+  border: 5px solid #F5F5F5;
+}
+
+
+
+.list img {
+  height: 250px;
+  width: 230px;
+
+}
+
+.list .desc {
+  font-size: 16px;
+  text-align: center;
+}
+
+.list .price {
+  text-align: center;
+  font-size: 20px;
+  color: #bd071d;
+}
+
+.footer {
+  background: #F5F5F5;
+  margin-top: 30px;
+  padding-top: 12px;
+}
+
+.footer div {
+  padding: 3px;
+  font-size: 16px;
+  text-align: center;
+  color: #888;
+}
+
+.mymargin {
+  margin: 30px;
+}
+
+.seckill-item {
+  margin: 30px;
+}
+
+.seckill-item img{
+  margin: 0 auto;
+  width: 75%;
+}
+
+.seckill-item .desc {
+  font-size: 30px;
+}
+
+.seckill-item .info {
+  font-size: 16px;
+  color: #666;
+}
+
+.seckill-item .price {
+  font-size: 35px;
+  color: #bd071d;
+  margin: 30px 0;
+}
+
+.panel {
+  margin-top: 30px;
+}
